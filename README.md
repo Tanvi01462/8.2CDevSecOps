@@ -1,2 +1,1 @@
-let's test if it actually works
-does it work?
+let's check if this email thingy works
